@@ -2,7 +2,7 @@
   "name": "tw-chicago-hacktoberfest",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/austinratcliff/tw-chicago-hacktoberfest",
+  "homepage": "https://austinratcliff.github.io/tw-chicago-hacktoberfest",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.10.1",
