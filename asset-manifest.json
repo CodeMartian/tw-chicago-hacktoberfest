@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/tw-chicago-hacktoberfest/static/css/main.c081e4ea.chunk.css",
-    "main.js": "/tw-chicago-hacktoberfest/static/js/main.67148b7e.chunk.js",
-    "main.js.map": "/tw-chicago-hacktoberfest/static/js/main.67148b7e.chunk.js.map",
+    "main.css": "/tw-chicago-hacktoberfest/static/css/main.8420d858.chunk.css",
+    "main.js": "/tw-chicago-hacktoberfest/static/js/main.d67a95bc.chunk.js",
+    "main.js.map": "/tw-chicago-hacktoberfest/static/js/main.d67a95bc.chunk.js.map",
     "runtime-main.js": "/tw-chicago-hacktoberfest/static/js/runtime-main.0705ed3a.js",
     "runtime-main.js.map": "/tw-chicago-hacktoberfest/static/js/runtime-main.0705ed3a.js.map",
     "static/css/2.266e55a5.chunk.css": "/tw-chicago-hacktoberfest/static/css/2.266e55a5.chunk.css",
-    "static/js/2.d9013456.chunk.js": "/tw-chicago-hacktoberfest/static/js/2.d9013456.chunk.js",
-    "static/js/2.d9013456.chunk.js.map": "/tw-chicago-hacktoberfest/static/js/2.d9013456.chunk.js.map",
+    "static/js/2.922d734b.chunk.js": "/tw-chicago-hacktoberfest/static/js/2.922d734b.chunk.js",
+    "static/js/2.922d734b.chunk.js.map": "/tw-chicago-hacktoberfest/static/js/2.922d734b.chunk.js.map",
     "index.html": "/tw-chicago-hacktoberfest/index.html",
-    "precache-manifest.3abef55e3a53f9a5a859f4ff4479745b.js": "/tw-chicago-hacktoberfest/precache-manifest.3abef55e3a53f9a5a859f4ff4479745b.js",
+    "precache-manifest.a3d8a33625d9a3f243c0e9e03dfc6ae8.js": "/tw-chicago-hacktoberfest/precache-manifest.a3d8a33625d9a3f243c0e9e03dfc6ae8.js",
     "service-worker.js": "/tw-chicago-hacktoberfest/service-worker.js",
     "static/css/2.266e55a5.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/2.266e55a5.chunk.css.map",
-    "static/css/main.c081e4ea.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/main.c081e4ea.chunk.css.map",
+    "static/css/main.8420d858.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/main.8420d858.chunk.css.map",
     "static/media/banner.png": "/tw-chicago-hacktoberfest/static/media/banner.8f692f30.png"
   }
 }
