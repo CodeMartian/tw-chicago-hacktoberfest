@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/tw-chicago-hacktoberfest/static/css/main.b100e6da.chunk.css",
-    "main.js": "/tw-chicago-hacktoberfest/static/js/main.94c9e56e.chunk.js",
-    "main.js.map": "/tw-chicago-hacktoberfest/static/js/main.94c9e56e.chunk.js.map",
+    "main.css": "/tw-chicago-hacktoberfest/static/css/main.cc492457.chunk.css",
+    "main.js": "/tw-chicago-hacktoberfest/static/js/main.ffa562a6.chunk.js",
+    "main.js.map": "/tw-chicago-hacktoberfest/static/js/main.ffa562a6.chunk.js.map",
     "runtime-main.js": "/tw-chicago-hacktoberfest/static/js/runtime-main.0705ed3a.js",
     "runtime-main.js.map": "/tw-chicago-hacktoberfest/static/js/runtime-main.0705ed3a.js.map",
-    "static/js/2.34c794ff.chunk.js": "/tw-chicago-hacktoberfest/static/js/2.34c794ff.chunk.js",
-    "static/js/2.34c794ff.chunk.js.map": "/tw-chicago-hacktoberfest/static/js/2.34c794ff.chunk.js.map",
+    "static/css/2.266e55a5.chunk.css": "/tw-chicago-hacktoberfest/static/css/2.266e55a5.chunk.css",
+    "static/js/2.2e2e065a.chunk.js": "/tw-chicago-hacktoberfest/static/js/2.2e2e065a.chunk.js",
+    "static/js/2.2e2e065a.chunk.js.map": "/tw-chicago-hacktoberfest/static/js/2.2e2e065a.chunk.js.map",
     "index.html": "/tw-chicago-hacktoberfest/index.html",
-    "precache-manifest.371b4c92b957503428ca46fcc2b24d91.js": "/tw-chicago-hacktoberfest/precache-manifest.371b4c92b957503428ca46fcc2b24d91.js",
+    "precache-manifest.ae7865852d22339ad131c44d00193c0e.js": "/tw-chicago-hacktoberfest/precache-manifest.ae7865852d22339ad131c44d00193c0e.js",
     "service-worker.js": "/tw-chicago-hacktoberfest/service-worker.js",
-    "static/css/main.b100e6da.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/main.b100e6da.chunk.css.map",
-    "static/media/logo.svg": "/tw-chicago-hacktoberfest/static/media/logo.25bf045c.svg"
+    "static/css/2.266e55a5.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.cc492457.chunk.css.map": "/tw-chicago-hacktoberfest/static/css/main.cc492457.chunk.css.map"
   }
 }
