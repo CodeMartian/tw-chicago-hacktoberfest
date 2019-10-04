@@ -1,8 +1,11 @@
-.Header span {
-  font-size: 2.5vmin;
+.Header .navbar-brand {
+  font-size: 1rem;
 }
 
-.Header .link {
-  color: #FF00AA;
-  text-decoration: underline;
+.Header .brand {
+  width: 200px;
+}
+
+.Header .banner {
+  width: 100vw;
 }

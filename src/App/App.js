@@ -1,6 +1,6 @@
 import React from 'react'
 import { BrowserRouter as Router, Switch, Route } from 'react-router-dom'
-import Home from '../Home/Home'
+import Header from '../Header/Header'
 import Rsvp from '../Rsvp/Rsvp'
 import About from '../About/About'
 import Agenda from '../Agenda/Agenda'
@@ -11,7 +11,7 @@ const App = () => {
   return (
     <div className="App">
       <Router>
-        <Home />
+        <Header />
         <Switch>
           <Route path="/about" component={About} />
           <Route path="/agenda" component={Agenda} />
