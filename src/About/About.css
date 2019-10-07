@@ -1,0 +1,54 @@
+.About {
+  background-color: #F8F9FA;
+  padding: 25px 0;
+}
+
+.About .header {
+  font-size: 5vmin;
+  width: 50%;
+  margin: 0 auto;
+}
+
+.About .highlight {
+  background: linear-gradient(180deg, rgba(255, 255, 255, 0) 50%, #FF00AA 50%);
+  padding: 0 5px;
+  font-weight: bold;
+}
+
+.About .text {
+  font-size: 3vmin;
+  margin-top: 25px;
+}
+
+.About .message {
+  text-align: justify;
+  width: 600px;
+  margin: 25px auto;
+}
+
+.About .bold {
+  font-weight: bold;
+}
+
+.About .btn {
+  width: 600px;
+  margin: 25px auto 0 auto;
+}
+
+@media (max-width: 992px) {
+  .About .text {
+    font-size: 4vmin;
+  }
+
+  .About .message {
+    width: 90%;
+  }
+
+  .About iframe {
+    width: 90%;
+  }
+
+  .About .btn {
+    width: 90%;
+  }
+}
