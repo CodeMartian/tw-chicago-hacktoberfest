@@ -1,5 +1,6 @@
 import React from "react";
 import Accordion from "react-bootstrap/Accordion";
+import Button from 'react-bootstrap/Button'
 import "./Agenda.css";
 import AgendaCard from "../AgendaCard/AgendaCard";
 
@@ -47,12 +48,13 @@ const Agenda = () => {
 					header='Experience Sharing & Feedback'
 					time='7:40 PM'
 					duration='remaining time'
-					details='A voluntary opportunity to show what you have worked on, share your experience, and give us feedback! 
+					details='A voluntary opportunity to show what you have worked on, share your experience, and give us feedback!
           The rest of the time can also be used to just socialize for the rest of Pub Night!'
 					eventKey='4'
 				/>
 				<AgendaCard header='Pub Night' time='Coming soon...' duration='Coming soon...' details='Coming soon...' eventKey='5' />
 			</Accordion>
+			<Button className="rsvp-button" href="/" variant="primary" size="lg" block>RSVP</Button>
 		</div>
 	);
 };
