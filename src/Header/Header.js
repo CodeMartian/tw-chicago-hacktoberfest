@@ -11,13 +11,13 @@ const Header = () => {
     <header className="Header">
       <Navbar bg="light" variant="light" expand="lg">
         <Navbar.Brand>
-          <a href="/">
+          <Link to="/">
           <img
             className="brand"
             src={brand}
             alt="Hacktoberfest brand"
           />
-          </a> at <a href="https://www.thoughtworks.com">TW Chicago</a>
+          </Link> at <a href="https://www.thoughtworks.com">TW Chicago</a>
         </Navbar.Brand>
         <Navbar.Toggle />
         <Navbar.Collapse className="justify-content-end">
