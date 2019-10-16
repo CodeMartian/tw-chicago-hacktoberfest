@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/tw-chicago-hacktoberfest/precache-manifest.897abf8c3acdf490c3355fbd9730a85a.js"
+  "/tw-chicago-hacktoberfest/precache-manifest.05e887d1b831566b919af31558b028b8.js"
 );
 
 self.addEventListener('message', (event) => {
