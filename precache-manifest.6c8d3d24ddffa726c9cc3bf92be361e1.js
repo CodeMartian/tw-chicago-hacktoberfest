@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "76253683473fd19a27fc6832197aed30",
+    "revision": "99b0a455a5796985545fe54290778365",
     "url": "/tw-chicago-hacktoberfest/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tw-chicago-hacktoberfest/static/css/2.266e55a5.chunk.css"
   },
   {
-    "revision": "9f6d955d45267cd00826",
+    "revision": "c29a734fdf90e8e43c19",
     "url": "/tw-chicago-hacktoberfest/static/css/main.347360a2.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/tw-chicago-hacktoberfest/static/js/2.1abc0952.chunk.js"
   },
   {
-    "revision": "9f6d955d45267cd00826",
-    "url": "/tw-chicago-hacktoberfest/static/js/main.89638db2.chunk.js"
+    "revision": "c29a734fdf90e8e43c19",
+    "url": "/tw-chicago-hacktoberfest/static/js/main.99ca6ec3.chunk.js"
   },
   {
     "revision": "589c038b308ec71d8bde",
