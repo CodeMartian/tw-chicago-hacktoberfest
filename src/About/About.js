@@ -1,5 +1,4 @@
 import React from 'react'
-import Button from 'react-bootstrap/Button'
 import './About.css'
 
 const About = () => {
@@ -26,7 +25,6 @@ const About = () => {
           allowFullScreen=""
           title="ThoughtWorks Chicago location"
         ></iframe>
-      <Button href="https://austinratcliff.github.io/tw-chicago-hacktoberfest/" variant="primary" size="lg" block>RSVP</Button>
       </div>
     </div>
   )

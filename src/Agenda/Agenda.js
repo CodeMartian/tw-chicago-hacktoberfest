@@ -1,6 +1,5 @@
 import React from "react";
 import Accordion from "react-bootstrap/Accordion";
-import Button from 'react-bootstrap/Button'
 import "./Agenda.css";
 import AgendaCard from "../AgendaCard/AgendaCard";
 
@@ -54,7 +53,6 @@ const Agenda = () => {
 				/>
 				<AgendaCard header='Pub Night' time='Coming soon...' duration='Coming soon...' details='Coming soon...' eventKey='5' />
 			</Accordion>
-			<Button className="rsvp-button" href="https://austinratcliff.github.io/tw-chicago-hacktoberfest/" variant="primary" size="lg" block>RSVP</Button>
 		</div>
 	);
 };
