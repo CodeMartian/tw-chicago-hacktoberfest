@@ -10,7 +10,7 @@ import './App.css'
 const App = () => {
   return (
     <div className="App">
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <Header />
         <Switch>
           <Route path="/about" component={About} />
