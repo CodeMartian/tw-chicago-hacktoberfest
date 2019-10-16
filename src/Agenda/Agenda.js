@@ -54,7 +54,7 @@ const Agenda = () => {
 				/>
 				<AgendaCard header='Pub Night' time='Coming soon...' duration='Coming soon...' details='Coming soon...' eventKey='5' />
 			</Accordion>
-			<Button className="rsvp-button" href="/" variant="primary" size="lg" block>RSVP</Button>
+			<Button className="rsvp-button" href="https://austinratcliff.github.io/tw-chicago-hacktoberfest/" variant="primary" size="lg" block>RSVP</Button>
 		</div>
 	);
 };

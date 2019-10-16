@@ -26,7 +26,7 @@ const About = () => {
           allowFullScreen=""
           title="ThoughtWorks Chicago location"
         ></iframe>
-      <Button href="/" variant="primary" size="lg" block>RSVP</Button>
+      <Button href="https://austinratcliff.github.io/tw-chicago-hacktoberfest/" variant="primary" size="lg" block>RSVP</Button>
       </div>
     </div>
   )
