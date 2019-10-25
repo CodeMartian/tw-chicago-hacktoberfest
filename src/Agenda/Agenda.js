@@ -51,7 +51,13 @@ const Agenda = () => {
           The rest of the time can also be used to just socialize for the rest of Pub Night!'
 					eventKey='4'
 				/>
-				<AgendaCard header='Pub Night' time='Coming soon...' duration='Coming soon...' details='Coming soon...' eventKey='5' />
+				<AgendaCard 
+					header='Pub Night' 
+					time='8:00PM' 
+					duration='Until we fall over drunk' 
+					details='Currently drinking' 
+					eventKey='5' 
+					/>
 			</Accordion>
 		</div>
 	);
